@@ -1,1 +1,1 @@
-https://skphillips.github.io/Gridworld/
+https://skphillips.github.io/GridWorld/
